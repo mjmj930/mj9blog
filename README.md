@@ -1,2 +1,2 @@
-# mj-s-blog
-mj的博客
+# mj's blog
+mj的博基于SpringMVC+Bootstrap+HTML+JQuery+Mysql
